@@ -1,19 +1,14 @@
 
-<h1 align="center">
+<h1 align="Osmose Game">
 <br>
-  <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
+  <img src= "https://i.ibb.co/xjs7nGH/celula.png" alt="Osmose Game" width="120">
 <br>
 <br>
-YOUR_PROJECT_NAME
+Osmose Game
 </h1>
 
-<p align="center">A little description about your project</p>
+<p align="center">Jogo da memoria para dinamica de ensino remoto</p>
 
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
-  </a>
-</p>
 
 [//]: # (Add your gifs/images here:)
 <div>
