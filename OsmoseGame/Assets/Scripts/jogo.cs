@@ -203,7 +203,7 @@ public class jogo : MonoBehaviour
             float minutes = Mathf.FloorToInt(tempo / 60);
             float seconds = Mathf.FloorToInt(tempo % 60);
 
-            textGameTempo.text = "TEMPO:\n" + string.Format("{0:00}:{1:00}", minutes, seconds);
+            textGameTempo.text = string.Format("{0:00}:{1:00}", minutes, seconds);
         }
     }
 
@@ -212,14 +212,14 @@ public class jogo : MonoBehaviour
         if(resposta == 0)
         {
             gameErro += 1;
-            textGameErro.text = "ERROS:\n" + gameErro;
+            textGameErro.text = gameErro.ToString();
             AudioSource.clip = clip[2];
             AudioSource.Play();
         }
         else if (resposta ==1)
         {
             gameAcertos += 1;
-            textGameAcerto.text = "ACERTOS:\n" + gameAcertos;
+            textGameAcerto.text = gameAcertos.ToString();
             AudioSource.clip = clip[1];
             AudioSource.Play();
         }

@@ -18,14 +18,15 @@ public class login : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //PlayerPrefs.DeleteAll();
         // PlayerPrefs.DeleteAll();
         if (PlayerPrefs.GetString("nome", "") != "")
         {
             nome.text = PlayerPrefs.GetString("nome");
-            textGamePonto.text = (PlayerPrefs.GetString("ponto",""));
-            textGameAcerto.text = (PlayerPrefs.GetString("acerto",""));
-            textGameErro.text = (PlayerPrefs.GetString("erro",""));
-            textGameTempo.text = (PlayerPrefs.GetString("tempo",""));
+            textGamePonto.text = "PONTOS:\n"+(PlayerPrefs.GetString("ponto",""));
+            textGameAcerto.text = "ACERTOS:\n"+(PlayerPrefs.GetString("acerto",""));
+            textGameErro.text = "ERROS:\n"+(PlayerPrefs.GetString("erro",""));
+            textGameTempo.text = "TEMPO:\n"+(PlayerPrefs.GetString("tempo",""));
         }
     }
 
