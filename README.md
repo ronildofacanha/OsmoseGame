@@ -1,10 +1,10 @@
 
-<h1 align="center">
+<h1 align="Osmose Game">
 <br>
-  <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
+  <img src="https://drive.google.com/file/d/19Uqj9Lem56Iv64PU5Y8ObirZ3YqbyUyi/view?usp=sharing" alt="YOUR_PROJECT_NAME" width="120">
 <br>
 <br>
-YOUR_PROJECT_NAME
+Osmose Game
 </h1>
 
 <p align="center">A little description about your project</p>
