@@ -9,11 +9,6 @@ Osmose Game
 
 <p align="center">Jogo da memoria para dinamica de ensino remoto</p>
 
-[//]: # <p align="center">
-  [//]: # <a href="https://opensource.org/licenses/MIT">
-  [//]: # <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
-  [//]: # </a>
-[//]: # </p>
 
 [//]: # (Add your gifs/images here:)
 <div>
