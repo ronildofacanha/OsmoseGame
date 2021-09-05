@@ -12,7 +12,7 @@ Osmose Game
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <a href="https://ibb.co/WGwS6cv"><img src="https://i.ibb.co/sbGL2F9/OsmoseGf.gif" alt="OsmoseGf" border="0"></a>
+  <img src="http://i.stack.imgur.com/SBv4T.gif" alt="this slowpoke moves"  width="250" />
 </div>
 
 <hr />
