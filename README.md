@@ -12,7 +12,7 @@ Osmose Game
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="https://i.ibb.co/sbGL2F9/OsmoseGf.gif" alt="GAME" height="425">
+  <a href="https://ibb.co/WGwS6cv"><img src="https://i.ibb.co/sbGL2F9/OsmoseGf.gif" alt="OsmoseGf" border="0"></a>
 </div>
 
 <hr />
