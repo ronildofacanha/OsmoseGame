@@ -27,7 +27,7 @@ This app features all the latest tools and practices in mobile development!
 
 ## Getting started
 
-1: Clone:  
+1: Clone: https://github.com/ronildofacanha/OsmoseGameUnity3D.git
 2: Apk: Na pasto "Projeto" -> "BuilderApp" -> ApkVersin.apk
 
 
