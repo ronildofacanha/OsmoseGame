@@ -1,7 +1,7 @@
 
 <h1 align="Osmose Game">
 <br>
-  <img src="https://drive.google.com/file/d/19Uqj9Lem56Iv64PU5Y8ObirZ3YqbyUyi/view?usp=sharing" alt="YOUR_PROJECT_NAME" width="120">
+  <img src= "https://drive.google.com/file/d/19Uqj9Lem56Iv64PU5Y8ObirZ3YqbyUyi/view?usp=sharing" alt="Osmose GameE" width="120">
 <br>
 <br>
 Osmose Game
