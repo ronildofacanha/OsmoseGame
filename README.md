@@ -1,7 +1,7 @@
 
 <h1 align="Osmose Game">
 <br>
-  <img src= "https://www.google.com/search?q=img&sxsrf=AOaemvIkeNO-matkAsFZKh5vNaBfMfY5NA:1630869714858&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi4rp2Qx-jyAhXlHLkGHdDCBiEQ_AUoAXoECAEQAw&biw=1366&bih=625#imgrc=fm5aDhrht_2IfM" alt="Osmose Game" width="120">
+  <img src= "https://i.ibb.co/xjs7nGH/celula.png" alt="Osmose Game" width="120">
 <br>
 <br>
 Osmose Game
