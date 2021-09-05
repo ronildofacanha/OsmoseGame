@@ -9,9 +9,8 @@ Osmose Game
 
 <p align="center">Jogo da memoria para dinamica de ensino remoto</p>
 
-
 [//]: # (Add your gifs/images here:)
-<div>
+<div align="center">
   <img src="https://i.ibb.co/2N3yRJ6/ez.gif" alt="this slowpoke moves"  width="250" />
   <img src="https://i.ibb.co/x6T6rQq/OsmoseGf.gif" alt="this slowpoke moves"  width="250" />
   <img src="https://i.ibb.co/mSdRkGZ/ezgif-com-gif-maker.gif" alt="this slowpoke moves"  width="250" />
