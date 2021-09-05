@@ -12,7 +12,7 @@ Osmose Game
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="http://i.stack.imgur.com/SBv4T.gif" alt="this slowpoke moves"  width="250" />
+  <img src="https://i.ibb.co/m80ddkb/OsmoseGf.gif" alt="this slowpoke moves"  width="250" />
 </div>
 
 <hr />
@@ -27,7 +27,7 @@ This app features all the latest tools and practices in mobile development!
 
 ## Getting started
 
-1: Clone: https://github.com/ronildofacanha/OsmoseGameUnity3D.git
+1: Clone Git: https://github.com/ronildofacanha/OsmoseGameUnity3D.git
 
 2: Apk: Pasta "Projeto" -> "BuilderApp" -> ApkVersin.apk
 
