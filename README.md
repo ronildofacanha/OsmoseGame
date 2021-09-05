@@ -12,8 +12,9 @@ Osmose Game
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="IMAGE_1_URL" alt="demo" height="425">
-  <img src="IMAGE_2_URL" alt="demo" height="425">
+  <img src="https://i.ibb.co/W50n4fL/Screenshot-20210905-162055-Osmose.png" alt="this slowpoke moves"  width="250" />
+  <img src="https://i.ibb.co/x6T6rQq/OsmoseGf.gif" alt="this slowpoke moves"  width="250" />
+  <img src="https://i.ibb.co/mSdRkGZ/ezgif-com-gif-maker.gif" alt="this slowpoke moves"  width="250" />
 </div>
 
 <hr />
@@ -22,15 +23,17 @@ Osmose Game
 [//]: # (Add the features of your project here:)
 This app features all the latest tools and practices in mobile development!
 
-- ⚛️ **React Js** — A JavaScript library for building user interfaces
-- ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
-- 💹 **Node Js** — A web framework for Node Js
+- ⚛️ **UNITY 3D** — Usado para desenvolver o game
+- ⚛️ **Visual Code** — Usado para criar os codigos em C#
+- 💹 **Photoshop** — Usado para criar as imagens/layout
 
 ## Getting started
 
-Describe here the way to use/install your project
+1: Clone Git: https://github.com/ronildofacanha/OsmoseGameUnity3D.git
+
+2: Apk: Pasta "Projeto" -> "BuilderApp" -> ApkVersin.apk
 
 
-## License
+## License:
 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+all rights reserved @ronildo.facanha.
