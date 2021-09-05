@@ -4,7 +4,7 @@
   <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
 <br>
 <br>
-OSMOSE GAME
+YOUR_PROJECT_NAME
 </h1>
 
 <p align="center">A little description about your project</p>
