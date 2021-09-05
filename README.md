@@ -29,9 +29,9 @@ This app features all the latest tools and practices in mobile development!
 
 1: Clone: https://github.com/ronildofacanha/OsmoseGameUnity3D.git
 
-2: Apk: Na pasto "Projeto" -> "BuilderApp" -> ApkVersin.apk
+2: Apk: Pasta "Projeto" -> "BuilderApp" -> ApkVersin.apk
 
 
-## License
+## License:
 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+all rights reserved @ronildo.facanha.
