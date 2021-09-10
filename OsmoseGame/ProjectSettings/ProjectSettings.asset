@@ -749,6 +749,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Build: 1
     UNet: 1
   luminIcon:
     m_Name: 
@@ -762,10 +763,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 2b752680-f120-4a19-b33d-ce3d1e23eede
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: OsmoseGame
+  organizationId: ronildo97
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
